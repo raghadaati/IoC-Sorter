@@ -36,7 +36,7 @@ The tool supports the following types of IoCs:
    cd IoC_Sorter
    ```
 
-````
+
 2. **Prepare your IoC data** in a `.txt` file. Place each IoC on a new line.
 3. **Run the tool**:
 ```python ioc_sorter.py <filename>```
@@ -84,12 +84,12 @@ Breakdown by type:
 ```
 
 ```
-![alt text](doc/1229f0bf-b939-4b82-beae-aa0cc82e48e3.jpeg)
-![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
-
-
-
+# Demo
 https://github.com/user-attachments/assets/249afd7e-8452-41f9-a83b-f37777693d68
+![f2c7c59f-86d7-452b-a0c9-c46d573ae1b7](https://github.com/user-attachments/assets/2562dedc-ce96-4426-be6f-f9fea1892f11)
+![1229f0bf-b939-4b82-beae-aa0cc82e48e3](https://github.com/user-attachments/assets/97de2a35-a776-45a9-bf7b-ce107d06c947)
+
+
 
 
 
