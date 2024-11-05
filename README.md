@@ -1,4 +1,4 @@
-# IoC Sorter Tool
+# IoCs Sorter Tool
 
 ## Description
 
