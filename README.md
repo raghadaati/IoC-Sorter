@@ -49,10 +49,10 @@ Replace `<filename>` with the path to your IoC file.
 python ioc_sorter.py ioc.txt
 ```
 
-```
-When prompted:
-```
 
+When prompted:
+
+```
 Enter a name to include in output files: RA
 ![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
 ```
