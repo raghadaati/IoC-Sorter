@@ -28,7 +28,7 @@ The tool supports the following types of IoCs:
 
 - Python 3.x
 
-## Usage
+## install & Run
 
 1. **Clone the repository**:
    ```bash
@@ -45,7 +45,6 @@ Replace `<filename>` with the path to your IoC file.
 4. **Enter an output name** when prompted. This name will be used in the result filenames for easy identification.
 ## Example
 ```
-
 python ioc_sorter.py ioc.txt
 ```
 
@@ -54,9 +53,9 @@ When prompted:
 
 ```
 Enter a name to include in output files: RA
-![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
-```
 
+```
+![f2c7c59f-86d7-452b-a0c9-c46d573ae1b7](https://github.com/user-attachments/assets/2562dedc-ce96-4426-be6f-f9fea1892f11)
 The following output files will be saved in the `result` folder:
 
 - `result/URLs IoCs - RA.txt`
@@ -68,7 +67,6 @@ The following output files will be saved in the `result` folder:
 - `result/CVEs IoCs - RA.txt`
 - `result/Others IoCs - RA.txt`
 
-![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
 
 After running, the tool will display a summary like this:
 ```
@@ -91,7 +89,6 @@ Breakdown by type:
 https://github.com/user-attachments/assets/168023a0-40bb-441d-80ec-0b99ecc0cefe
 
 
-![f2c7c59f-86d7-452b-a0c9-c46d573ae1b7](https://github.com/user-attachments/assets/2562dedc-ce96-4426-be6f-f9fea1892f11)
 ![1229f0bf-b939-4b82-beae-aa0cc82e48e3](https://github.com/user-attachments/assets/97de2a35-a776-45a9-bf7b-ce107d06c947)
 
 
