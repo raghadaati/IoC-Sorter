@@ -44,9 +44,10 @@ Replace `<filename>` with the path to your IoC file.
 
 4. **Enter an output name** when prompted. This name will be used in the result filenames for easy identification.
 ## Example
-````
+```
 
 python ioc_sorter.py ioc.txt
+```
 
 ```
 When prompted:
