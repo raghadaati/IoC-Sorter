@@ -53,7 +53,7 @@ When prompted:
 ```
 
 Enter a name to include in output files: RA
-
+![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
 ```
 
 The following output files will be saved in the `result` folder:
@@ -67,7 +67,7 @@ The following output files will be saved in the `result` folder:
 - `result/CVEs IoCs - RA.txt`
 - `result/Others IoCs - RA.txt`
 
-## Sample Output
+![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
 
 After running, the tool will display a summary like this:
 ```
@@ -81,11 +81,11 @@ Breakdown by type:
 - result/IPs IoCs - RA.txt: 55 items
 - result/Hashes IoCs - RA.txt: 35 items
 - result/CVEs IoCs - RA.txt: 53 items
-
-```
-
-```
-
 ![alt text](doc/1229f0bf-b939-4b82-beae-aa0cc82e48e3.jpeg)
-![alt text](doc/f2c7c59f-86d7-452b-a0c9-c46d573ae1b7.jpeg)
+```
+
+```
+
+
+
 <video controls src="doc/f7386287-2c22-4ee4-bba8-4af6a8550a06.mp4" title="Title"></video>
