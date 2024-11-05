@@ -4,7 +4,7 @@
 
 The IoC Sorter Tool is a Python-based script designed to categorize and clean various types of Indicators of Compromise (IoCs) from a given text file. This tool takes a `.txt` file containing a list of IoCs, processes them, and saves each type in a separate file under the `result` folder. This tool helps reduce the time needed for organization and improves accuracy by automating what would otherwise be a manual process.
 
-## Supported IoC Types
+## Supported IoCs Types
 
 The tool supports the following types of IoCs:
 
